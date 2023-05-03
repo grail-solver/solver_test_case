@@ -1,0 +1,6 @@
+Une entreprise a un portefeuille d'investissement composé de plusieurs actions. Chaque action a un risque et un rendement associés. L'entreprise a un objectif de rendement global pour son portefeuille, mais elle doit également respecter certaines contraintes :
+
+Le risque global du portefeuille ne doit pas dépasser un certain niveau.
+L'entreprise doit investir un montant minimum dans chaque action.
+L'entreprise ne peut pas investir plus de X% de son portefeuille dans une seule action.
+Le problème consiste à trouver la répartition optimale du portefeuille qui maximise le rendement tout en respectant toutes les contraintes.

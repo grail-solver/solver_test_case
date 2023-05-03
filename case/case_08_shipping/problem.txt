@@ -1,0 +1,1 @@
+A shipping company has to deliver packages to three different cities. The company has three trucks, each with a capacity of 30 packages. The company earns $2000, $2500, and $3000 for each package delivered to cities A, B, and C, respectively. How many packages should be delivered to each city to maximize the company's earnings?

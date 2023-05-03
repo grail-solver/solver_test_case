@@ -1,0 +1,5 @@
+Un artisan fabrique des bijoux qu'il vend sur des marchés. Il dispose de 12 pierres précieuses et souhaite créer 4 colliers, 3 bracelets et 5 paires de boucles d'oreilles. Chaque bijou nécessite un certain nombre de pierres précieuses, comme suit :
+Un collier nécessite 3 pierres précieuses
+Un bracelet nécessite 2 pierres précieuses
+Une paire de boucles d'oreilles nécessite 1 pierre précieuse
+Le but est de créer des bijoux en utilisant toutes les pierres précieuses et en respectant les quantités de chaque type de bijou demandé.

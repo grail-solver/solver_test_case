@@ -1,0 +1,1 @@
+You are organizing a charity event and need to assign volunteers to different tasks. There are five tasks and six volunteers. Each volunteer has a list of tasks they are willing to do, but they can only be assigned to one task. Your goal is to assign each volunteer to a task that they are willing to do, while also ensuring that each task is covered by exactly one volunteer.

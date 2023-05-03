@@ -1,0 +1,1 @@
+Un magasin de vêtements souhaite organiser une promotion pour ses clients. Il a 100 T-shirts, 50 pulls et 30 pantalons en stock. La promotion consiste à offrir une remise de 20% sur le deuxième article acheté. Le magasin souhaite que chaque client achète au moins deux articles et que la promotion soit valable pour chaque combinaison d'articles achetés.

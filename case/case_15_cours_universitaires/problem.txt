@@ -1,0 +1,9 @@
+Ce problème concerne l'attribution de cours à des enseignants dans une université. Il y a sept enseignants et sept cours. Chaque enseignant doit se voir attribuer exactement un cours, et chaque cours doit être enseigné par exactement un enseignant. De plus, chaque enseignant a des préférences de cours qu'il souhaite enseigner. Ces préférences sont les suivantes :
+Enseignant 1 : Cours A, Cours B
+Enseignant 2 : Cours B, Cours C
+Enseignant 3 : Cours A, Cours D
+Enseignant 4 : Cours C, Cours D
+Enseignant 5 : Cours A, Cours E
+Enseignant 6 : Cours D, Cours E
+Enseignant 7 : Cours B, Cours E
+Le but est de créer un emploi du temps qui satisfait toutes ces contraintes.
