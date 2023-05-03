@@ -1,0 +1,1 @@
+Given an undirected graph G, the objective of the graph coloring problem is to assign a color to each vertex of the graph such that no two adjacent vertices have the same color, subject to some constraints. The minimum number of colors required to color a graph is known as the chromatic number of the graph.

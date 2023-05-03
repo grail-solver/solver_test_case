@@ -1,0 +1,1 @@
+On dispose de sept tâches à réaliser, chacune ayant une durée différente. Il y a trois travailleurs disponibles pour effectuer ces tâches, chacun ayant une capacité de travail différente. Comment affecter les tâches aux travailleurs pour minimiser le temps total de travail ?

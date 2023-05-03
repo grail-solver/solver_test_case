@@ -1,0 +1,1 @@
+Dans une école, chaque élève doit choisir trois matières parmi cinq matières proposées. Chaque matière est enseignée par un seul professeur. Comment affecter les élèves aux professeurs pour satisfaire cette contrainte ?

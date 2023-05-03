@@ -1,0 +1,1 @@
+A school wants to schedule its classes for the upcoming semester. There are eight classes and five time slots available each day. Each class can only be scheduled in one time slot, and each time slot can only be used for one class. Additionally, some classes have prerequisites that must be taken first. The goal is to create a schedule that satisfies these constraints.

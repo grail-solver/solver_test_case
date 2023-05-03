@@ -1,0 +1,1 @@
+Bin packing: Given a set of items of varying sizes and a set of bins of fixed sizes, assign the items to the bins so that no bin exceeds its capacity and the total number of bins used is minimized.

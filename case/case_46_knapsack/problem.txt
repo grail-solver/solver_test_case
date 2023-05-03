@@ -1,0 +1,1 @@
+Knapsack problem: Given a set of items with values and weights, and a knapsack with a maximum weight capacity, determine the items to pack into the knapsack so as to maximize the total value of the packed items while not exceeding the weight capacity.
