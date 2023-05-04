@@ -1,0 +1,1 @@
+{"constraints": [{"left_part": [[1, "Var_1"]], "relation": "intersects with", "right_part": ["another letter"]}, {"left_part": [[1, "Var_1"]], "relation": "is a valid", "right_part": ["English word"]}], "variables": [{"id": 1, "name": "word", "type": "String", "domaine_type": "Enum", "domaine_values": "[]"}], "llm_status": "success"}
