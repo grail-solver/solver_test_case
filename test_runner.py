@@ -1,7 +1,7 @@
 import os
 import json
 from xtractor.core.helper import grail_extractor
-
+from solver.solver import solve
 
 def run_test():
     test_folder_path = 'case'
@@ -24,6 +24,14 @@ def run_test():
                     result_file_path = os.path.join(folder_path, 'result.json')
                     with open(result_file_path, 'w') as result_file:
                         json.dump(result, result_file)
+
+                    # Save solution in file
+                    if result['llm_status'] == 'success':
+                        solution = solve(result['variables'], result['constraints'], [])
+                        solution_file_path = os.path.join(folder_path, 'solution.json')
+                        with open(solution_file_path, 'w') as solution_file:
+                            json.dump(solution, solution_file)
+
 
 
 def run_specific_test(folder: str):
@@ -48,8 +56,13 @@ def run_specific_test(folder: str):
                     with open(result_file_path, 'w') as result_file:
                         json.dump(result, result_file)
 
+                    if result['llm_status'] == 'success':
+                        solution = solve(result['variables'], result['constraints'], [])
+                        solution_file_path = os.path.join(folder_path, 'solution.json')
+                        with open(solution_file_path, 'w') as solution_file:
+                            json.dump(solution, solution_file)
+
 
 if __name__ == '__main__':
-    #run_test()
+    # run_test()
     run_specific_test('case_38_sudoku')
-
