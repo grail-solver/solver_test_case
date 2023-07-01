@@ -1,9 +1,0 @@
-There are 5 students in a class, and they are tasked with completing 3 different assignments over the course of a week. Each assignment has a specific deadline, and each student must complete all 3 assignments. However, each student has different preferences for which assignment they would like to complete first, second, and third.
-
-Student 1: Assignment 1, Assignment 2, Assignment 3
-Student 2: Assignment 2, Assignment 1, Assignment 3
-Student 3: Assignment 3, Assignment 2, Assignment 1
-Student 4: Assignment 1, Assignment 3, Assignment 2
-Student 5: Assignment 2, Assignment 3, Assignment 1
-
-The goal is to create a schedule that assigns each student to a specific assignment for each day of the week, while satisfying all of their preferences and ensuring that each assignment is completed by its deadline.

@@ -1,1 +1,0 @@
-Packing a container: Given a set of boxes of varying sizes and a container of fixed size, pack the boxes into the container so that no box protrudes from the container and the total volume of unused space is minimized.

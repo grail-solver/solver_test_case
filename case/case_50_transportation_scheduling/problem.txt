@@ -1,1 +1,0 @@
-A transportation company wants to schedule its vehicles for the day. There are six vehicles and five routes available. Each vehicle can only be assigned to one route, and each route can only be serviced by one vehicle. Additionally, some routes have time constraints that must be followed. The goal is to create a schedule that satisfies these constraints.

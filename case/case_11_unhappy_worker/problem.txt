@@ -1,1 +1,0 @@
-You are the manager of a factory and need to schedule workers for different shifts. There are three shifts per day and 20 workers. Each worker has a preferred shift and can only work one shift per day. Your goal is to create a schedule that satisfies all of these constraints, while also minimizing the number of workers who are unhappy with their assigned shift.

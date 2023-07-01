@@ -1,1 +1,0 @@
-N-Queens problem: Place N queens on an N×N chessboard so that no two queens threaten each other. In other words, no two queens are in the same row, column, or diagonal.

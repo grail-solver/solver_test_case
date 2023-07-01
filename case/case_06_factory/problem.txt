@@ -1,1 +1,0 @@
-A factory produces three types of products, A, B, and C, and earns a profit of $5, $10, and $15 per unit, respectively. The factory must produce at least 100 units of each product, and the total production cost must not exceed $3000. How many units of each product should the factory produce to maximize its profit?

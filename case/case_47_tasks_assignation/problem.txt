@@ -1,1 +1,0 @@
-A company wants to assign tasks to its employees for a project. There are four tasks and four employees. Each task can only be assigned to one employee, and each employee can only be assigned one task. Additionally, some employees have skills that are required for certain tasks. The goal is to assign the tasks to the employees in a way that satisfies these constraints.

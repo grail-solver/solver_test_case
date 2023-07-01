@@ -1,1 +1,0 @@
-Une entreprise de production dispose de 3 machines pour fabriquer des pièces de rechange. Chaque machine peut produire un nombre différent de pièces par heure et a une durée de fonctionnement maximale par jour. L'entreprise doit produire un certain nombre de pièces chaque jour et souhaite utiliser le minimum de machines possible pour y parvenir.

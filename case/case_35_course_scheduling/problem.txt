@@ -1,7 +1,0 @@
-This problem involves scheduling courses for a university department. There are five courses to schedule and three time slots available each day (morning, afternoon, and evening). Each course must be scheduled for exactly one time slot, and each time slot must have exactly one course scheduled. Additionally, certain pairs of courses cannot be scheduled at the same time due to scheduling conflicts. These conflicts are as follows:
-
-Course A and Course B cannot be scheduled at the same time.
-Course C and Course D cannot be scheduled at the same time.
-Course D and Course E cannot be scheduled at the same time.
-
-The goal is to create a schedule that satisfies all of these constraints.

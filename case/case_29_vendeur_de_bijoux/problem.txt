@@ -1,1 +1,0 @@
-Vous êtes un vendeur de bijoux et vous devez planifier vos tournées de vente. Vous avez 5 clients et chaque client est disponible à des heures différentes. Vous pouvez visiter chaque client une seule fois et chaque rendez-vous doit durer une heure. Votre objectif est de maximiser le nombre de clients que vous pouvez visiter tout en respectant les disponibilités de chacun.

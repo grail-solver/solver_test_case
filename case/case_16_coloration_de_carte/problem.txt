@@ -1,1 +1,0 @@
-Problème de coloration de carte : Vous devez colorier une carte avec 6 couleurs différentes. Les pays adjacents doivent avoir des couleurs différentes. La carte est représentée par une matrice de 6x6, où chaque case représente un pays. Les couleurs disponibles sont rouge, vert, bleu, jaune, orange et violet.

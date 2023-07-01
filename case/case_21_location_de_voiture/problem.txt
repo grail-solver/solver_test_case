@@ -1,5 +1,0 @@
-Une entreprise de location de voitures propose trois types de voitures : économique, intermédiaire et haut de gamme. Elle dispose de 20 voitures en tout. Le nombre de voitures de chaque type est limité et chaque type de voiture a un tarif de location différent. Les limitations et tarifs sont les suivants :
-Économique : maximum 10 voitures, tarif de 50€ par jour
-Intermédiaire : maximum 6 voitures, tarif de 75€ par jour
-Haut de gamme : maximum 4 voitures, tarif de 100€ par jour
-Le but est de déterminer le nombre de voitures de chaque type à louer pour maximiser les revenus de l'entreprise.

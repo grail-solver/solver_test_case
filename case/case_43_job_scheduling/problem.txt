@@ -1,1 +1,0 @@
-Job scheduling: Given a set of jobs with varying processing times and dependencies, schedule the jobs on a set of machines so that each job is processed exactly once and all dependencies are satisfied.

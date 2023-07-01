@@ -1,1 +1,0 @@
-On doit organiser un tournoi de football avec 8 équipes. Chaque équipe doit jouer un match contre chacune des autres équipes une seule fois. Comment organiser les matchs pour satisfaire cette contrainte ?

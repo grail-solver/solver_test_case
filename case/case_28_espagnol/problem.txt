@@ -1,9 +1,0 @@
-Suponga que hay un grupo de amigos que van a una fiesta de cumpleaños. Cada amigo tiene una preferencia sobre qué tipo de pastel le gustaría comer. Hay tres tipos de pasteles disponibles: chocolate, vainilla y fresa. Sin embargo, hay algunas restricciones sobre cómo se pueden servir los pasteles:
-
-El amigo A no come pastel de chocolate.
-El amigo B quiere pastel de vainilla o fresa.
-El amigo C quiere pastel de fresa.
-El amigo D no come pastel de vainilla.
-El objetivo es encontrar una asignación de pasteles a amigos que satisfaga todas las restricciones.
-
-Este problema se puede modelar como un problema de satisfacción de restricciones. Cada amigo es una variable y el dominio de cada variable es el conjunto de pasteles disponibles. Las restricciones son las preferencias de los amigos y las limitaciones en cuanto a qué pasteles pueden comer. El objetivo es encontrar una asignación de pasteles a amigos que satisfaga todas las restricciones.

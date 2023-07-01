@@ -1,1 +1,0 @@
-Problème de tournée de livraison : Vous devez planifier la tournée de livraison pour une entreprise. Il y a 5 clients différents qui doivent être livrés. Vous devez trouver l'itinéraire le plus court qui passe par tous les clients, en partant et en arrivant au siège de l'entreprise. Les distances entre les clients sont connues et sont représentées par une matrice de 5x5.

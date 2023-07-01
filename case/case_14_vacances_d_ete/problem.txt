@@ -1,9 +1,0 @@
-Un groupe de six amis doit choisir une destination de vacances pour cet été. Ils ont à choisir entre trois destinations : la plage, la montagne et la ville. Chaque ami a des préférences différentes, comme suit :
-
-Ami 1 : Plage, Montagne
-Ami 2 : Ville, Plage
-Ami 3 : Montagne, Ville
-Ami 4 : Ville, Plage
-Ami 5 : Montagne, Plage
-Ami 6 : Ville, Montagne
-Les amis doivent décider ensemble de la destination de vacances,
