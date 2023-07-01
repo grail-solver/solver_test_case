@@ -50,6 +50,6 @@ def run_specific_test(folder: str):
 
 
 if __name__ == '__main__':
-    run_test()
-    # run_specific_test('case_38_sudoku')
+    #run_test()
+    run_specific_test('case_38_sudoku')
 
