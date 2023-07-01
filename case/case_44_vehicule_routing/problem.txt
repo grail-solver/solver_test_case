@@ -1,0 +1,1 @@
+Vehicle routing: Given a set of locations and a set of vehicles, route the vehicles to the locations to minimize the total distance traveled while satisfying constraints on vehicle capacity and delivery time windows.

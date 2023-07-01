@@ -1,0 +1,1 @@
+Une entreprise de transport dispose de 5 camions pour livrer des marchandises à 10 clients différents. Chaque camion a une capacité maximale de 10 tonnes et chaque client a une demande différente allant de 1 à 9 tonnes. L'entreprise souhaite optimiser la livraison de marchandises en minimisant le nombre de camions utilisés.

@@ -1,0 +1,1 @@
+Crossword puzzle: Fill a crossword puzzle grid with words so that each word intersects with another at a common letter, and all words are valid English words.

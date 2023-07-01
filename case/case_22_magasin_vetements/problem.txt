@@ -1,0 +1,6 @@
+Un magasin de vêtements doit organiser sa vitrine pour la saison d'été. Il dispose de 20 vêtements différents à exposer, dont 5 robes, 7 t-shirts, 4 shorts et 4 pantalons. La vitrine a une capacité limitée et chaque type de vêtement nécessite un certain espace d'exposition. Les espaces nécessaires pour chaque type de vêtement sont les suivants :
+Robes : 2 mètres carrés par robe
+T-shirts : 1 mètre carré par t-shirt
+Shorts : 0,5 mètre carré par short
+Pantalons : 1 mètre carré par pantalon
+Le but est de déterminer le nombre de chaque type de vêtement à exposer pour remplir au mieux la vitrine tout en respectant la capacité limitée.

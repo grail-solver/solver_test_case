@@ -1,0 +1,1 @@
+A factory wants to schedule its production for the week. There are ten orders to fulfill and four machines available. Each order requires a certain amount of time on each machine, and each machine can only work on one order at a time. Additionally, some orders have to be completed before others can start. The goal is to create a schedule that satisfies these constraints.

@@ -1,0 +1,1 @@
+Une entreprise de service doit affecter ses 10 employés à 5 tâches différentes, chacune ayant une durée et une complexité différentes. Chaque employé a une compétence différente pour chaque tâche. L'entreprise souhaite affecter les employés aux tâches de manière à minimiser le temps nécessaire pour terminer toutes les tâches.

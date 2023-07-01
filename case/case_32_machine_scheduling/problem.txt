@@ -1,0 +1,1 @@
+Une entreprise doit produire trois produits différents en utilisant deux types de machines. Chaque produit nécessite un temps de traitement différent sur chaque machine. Comment organiser la production pour minimiser le temps total de traitement
